@@ -1,6 +1,6 @@
 import { formatAmount } from "@/lib/utils";
 import React from "react";
-
+import CountUp from "react-countup/build/CountUp";
 const TotalBalanceBox = ({
   accounts = [],
   totalBanks,
