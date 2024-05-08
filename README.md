@@ -59,4 +59,3 @@ LoopBank is a financial SaaS platform that revolutionizes banking operations by 
 4. Run the development server using `npm run dev`.
 
 LoopBank is designed to empower users with a secure, intuitive, and comprehensive platform for managing their finances, leveraging the latest in web development technologies to deliver a seamless user experience.
->>>>>>> origin/main
